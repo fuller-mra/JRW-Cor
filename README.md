@@ -25,4 +25,4 @@ For general RW and related analyses, just use the relaimpo, domir, leaps, glmnet
 Source this function directly:
 
 ```R
-source("https://raw.githubusercontent.com/brentfuller-mra/JRW-Cor/main/jrelwgts_cor.R")
+source("https://raw.githubusercontent.com/fuller-mra/JRW-Cor/main/jrelwgts_cor.R")
